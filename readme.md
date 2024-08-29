@@ -1,6 +1,6 @@
 # vibeshift
 
-steal the vibe from photo(s) and apply it to your photo(s)
+steal the vibe from photo(s) and apply it to your photo(s). this repo is just a list of comfyui workflows that will eventually go into an app to shift the aesthetic of any photo to match the style of shot taken from a polaroid or a leica or another camera. imagine a photo editor you could talk to...
 
 ![qschKrO8 jpg-medium](https://github.com/user-attachments/assets/5e9fe9c8-c29f-4bf2-9473-fc622eb53c76)
 
