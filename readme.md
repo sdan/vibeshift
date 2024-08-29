@@ -2,6 +2,16 @@
 
 steal the vibe from photo(s) and apply it to your photo(s)
 
+![qschKrO8 jpg-medium](https://github.com/user-attachments/assets/5e9fe9c8-c29f-4bf2-9473-fc622eb53c76)
+
++ use a leica
+
+![y52jNvd2 jpg-medium](https://github.com/user-attachments/assets/8819c937-7d44-4436-913d-8cd152465bf7)
+
+or make the shot look like it was taken from a polaroid, flash
+
+![uMN_Iccp jpg-medium](https://github.com/user-attachments/assets/f2162032-49ad-43a0-892b-394009e6096d)
+
 ## methods
 
 1. ic-light (https://replicate.com/zsxkib/ic-light?prediction=05p9w3722xrgj0cgta29xcg428)
